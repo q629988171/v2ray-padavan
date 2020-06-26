@@ -22,7 +22,7 @@
 
 ## 上传软件
 
-一共需要6个文件：v2ray、config.conf、iptables.sh、check.sh、site.dat、config.json
+一共需要5个文件：v2ray、iptables.sh、check.sh、site.dat、config.json
 
 ```
 mkdir /etc/storage/v2ray
